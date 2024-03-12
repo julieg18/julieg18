@@ -12,9 +12,10 @@ This extension uses DVC, an open-source data versioning and ML experiment manage
 
 * Add a wizard for adding plot configuration into your dvc.yaml file (https://github.com/iterative/vscode-dvc/pull/4586)
 * Add a section inside of the plots view that lets you create extension-only plots for comparing your project metrics and params (https://github.com/iterative/vscode-dvc/pull/3342)
-* Improve the extensions onboarding experience (This was a large one, involving multiple issues and PRS. Some highlights: https://github.com/iterative/vscode-dvc/pull/3688, https://github.com/iterative/vscode-dvc/pull/3823) 
-* Flatten the extension's experiment table on sort (https://github.com/iterative/vscode-dvc/pull/4691, https://github.com/iterative/vscode-dvc/pull/4685)
+* Improve the extensions onboarding experience (This was a large one, involving multiple issues and PRS. Some highlights: https://github.com/iterative/vscode-dvc/pull/3688, https://github.com/iterative/vscode-dvc/pull/3823)
+* Cleanup and group the experiment's table styles (https://github.com/iterative/vscode-dvc/pull/3736, https://github.com/iterative/vscode-dvc/pull/3667)
 * Convert user's project images into image by step plots depending on their image locations/filenames (https://github.com/iterative/vscode-dvc/pull/4372)
+* Flatten the extension's experiment table on sort (https://github.com/iterative/vscode-dvc/pull/4691, https://github.com/iterative/vscode-dvc/pull/4685)
 
 ### [dvc.org](https://github.com/iterative/dvc.org)
 
