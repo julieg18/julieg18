@@ -28,3 +28,10 @@ DVC's website and documentation.
 * Implement a new design for the nav/footers (https://github.com/iterative/dvc.org/pull/2514, https://github.com/iterative/dvc.org/pull/2495)
 * Make YouTube Embeds GDPR-compliant (https://github.com/iterative/dvc.org/pull/3253)
 
+### [mlem.ai](https://github.com/iterative/mlem.ai)
+
+MLEM's website and documentation. 
+
+#### Favorite Contributions
+
+* Add landing page (https://github.com/iterative/mlem.ai/pull/3)
